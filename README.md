@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Asadullah khan
-- 👀 I’m interested in Distributed ledger technology 
-- 🌱 I’m currently learning Yul and Assembly
-- 💞️ I’m looking to collaborate on blockchain
-- 📫 How to reach me asadmuhammad427@gmail.com
+### Hi there, I'm Asadullah Khan 👋
 
-<!---
-asad97290/asad97290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm a Full Stack Blockchain Developer 💻
+
+- 🌱 I’m constantly learning Ethereum, Avalanche, Polygon, Layer2s, Solana and others...
+- 🦀 I'm learning Yul and Solidty Assembly
+- ⚡ Fun fact: Im a musician and i sing and play guitar!
