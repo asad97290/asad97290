@@ -2,6 +2,6 @@
 
 ## I'm a Full Stack Blockchain Developer 💻
 
-- 🌱 I’m constantly learning Ethereum, Avalanche, Polygon, Layer2s, Solana and others...
-- 🦀 I'm learning Rust, Yul Assembly and Nextjs 13
+- 🌱 I’m constantly exploring Blockchain, Cloud Computing and AI.
+- 🦀 I'm learning Rust and Go lang. 
 - ⚡ Fun fact: Im a musician and i sing and play guitar!
