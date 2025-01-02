@@ -1,7 +1,7 @@
 ### Hi there, I'm Asadullah Khan 👋
 
-## I'm a Full Stack Blockchain Developer 💻
+## I'm a Security Researcher & Full Stack Blockchain Developer 💻
 
-- 🌱 I'm constantly exploring Blockchain, Web development, Cloud Computing and AI.
-- 🦀 I'm learning Typescript, Go and Rust. 
+- 🌱 I'm constantly exploring Security, Blockchain, Web development and AI.
+- 🦀 I'm learning Typescript, Rust and Go. 
 - ⚡ Fun fact: I'm a musician and i sing and play guitar ✨.
